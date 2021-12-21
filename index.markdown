@@ -4,3 +4,5 @@
 
 layout: home
 ---
+Hello, I'm Hari. Welcome to my internet home.
+You can see a running list of my scribles in my [blog](/blog) page.
