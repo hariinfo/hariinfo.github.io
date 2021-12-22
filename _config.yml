@@ -22,13 +22,13 @@ domain: hariinfo.github.io
 url: https://hariinfo.github.io
 baseurl: /blog/
 title: Hariharan Vadivelu
-email: your-email@example.com
+email: hariinfo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey I'm Hari.
+  Opinions are my own and not the views of my employer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: hariinfo
+github_username:  hariinfo
 
 # Build settings
 theme: minima
